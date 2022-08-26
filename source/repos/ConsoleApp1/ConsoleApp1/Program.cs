@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World! My name Dima Perekhrest and this version 2.0");
+﻿Console.WriteLine("Hello, World! My name Dima Perekhrest and this version 4.0");
